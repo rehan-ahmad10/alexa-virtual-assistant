@@ -15,7 +15,7 @@ A voice-controlled Windows assistant. Say **"Alexa"** to wake it, then speak com
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/alexa-virtual-assistant.git
+git clone https://github.com/rehan-ahmad10/alexa-virtual-assistant.git
 cd alexa-virtual-assistant
 
 python -m venv venv
